@@ -6,3 +6,4 @@ Texto master feature3
 Texto master feature3.1
 Texto master feature3.2
 Text feature3
+Text feature3.1
