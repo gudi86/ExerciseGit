@@ -17,3 +17,6 @@ Text feature4.3
 Texto master feature5.1
 Texto master feature5.2
 Texto master feature5.3
+Include text 1
+Include text 2
+Include text 3
