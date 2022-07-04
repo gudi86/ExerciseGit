@@ -18,3 +18,4 @@ Texto master feature5.1
 Texto master feature5.2
 Texto master feature5.3
 Commit A
+Commit B
