@@ -15,3 +15,6 @@ Text feature4.1
 Text feature4.2
 Text feature4.3
 Texto master feature5.1
+Add new line
+Add more then one line
+Add interesting line
