@@ -15,4 +15,3 @@ Text feature4.1
 Text feature4.2
 Text feature4.3
 Texto master feature5.1
-Texto master feature5.2
