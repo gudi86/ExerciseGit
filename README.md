@@ -15,3 +15,6 @@ Text feature4.1
 Text feature4.2
 Text feature4.3
 Texto master feature5.1
+Include qualquer texto
+Include bla bla bla
+Include laste line and finished
